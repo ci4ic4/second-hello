@@ -4,4 +4,6 @@ I don't seem to see my first Hello-Universe repo on GitHub from the local client
 
 I can *edit* this file on GitHub
 
-Now I am adding some more locally on Tarkus
+Now I am adding some more locally on Tarkus...
+
+And now from git-bash ... 
